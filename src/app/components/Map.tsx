@@ -42,4 +42,4 @@ const Map: React.FC<MapProps> = ({ center }) => {
   )
 }
 
-export default Map
+export default Map;
