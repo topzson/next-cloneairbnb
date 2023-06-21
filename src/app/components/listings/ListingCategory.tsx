@@ -28,6 +28,8 @@ const ListingCategory: React.FC<ListingCategoryProps> = ({
             </div>
         </div>
     );
+
+    
 }
 
 export default ListingCategory;
